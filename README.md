@@ -2,4 +2,4 @@
 
 Hi,Humans!
 
-Let us study and enjoy the Differential Privacy!
+Let us study and enjoy the technology and life!
